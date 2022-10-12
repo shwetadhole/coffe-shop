@@ -1,0 +1,88 @@
+body{
+margin: 0;
+margin-right: 0px;
+font-family: "Merriweather", serif;
+}
+.title-row{
+  text-align: center;
+  background-color: white;
+}
+
+h1{
+  font-family: "Merriweather", serif;
+padding: 30px 0 30px 0;
+}
+
+h2{
+font-family: "Merriweather", serif;
+padding-top: 50px;
+  margin: 20px 0 0 20px;
+
+}
+h3{
+
+padding: 50px 0 50px 0;
+    text-align: center;
+}
+.list{
+  padding: 20px;
+  background-color: #C98474;
+}
+p{
+  text-align: center;
+font-family: "Montserrat", sans-serif;
+  padding: 10px;
+  margin: 10px 0 0 10px;
+}
+
+
+
+/* list image */
+
+.title-img{
+
+height: 500px;
+}
+.Coled-img{
+  margin: 60px auto 0 30px;
+  text-align: center;
+  height: 100px;
+  width: 200px;
+}
+.capp-img{
+margin: 125px auto 0 30px;
+}
+.black-img{
+  margin: 110px 10px 0px 30px;
+  height: 200px;
+  width: 280px;
+}
+
+
+#facility{
+  background-color: white;
+  text-align: center;
+}
+.facility-icon{
+  padding-top: 30px;
+  height: 50px;
+}
+.fa-solid{
+  padding-top: 40px;
+}
+/* stay */
+#contact{
+  padding-right: 20px;
+  background-color: #FDEEDC;
+  text-align: center;
+}
+/* footer */
+.icon{
+    margin: 20px 10px;
+}
+#footer{
+  background-color: #FDEEDC;
+  text-align: center;
+padding: 7% 15%;
+
+}
